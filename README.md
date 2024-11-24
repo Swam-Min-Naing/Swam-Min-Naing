@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swam Min Naing</h1>
 <h3 align="center">A passionate student who is enthusiastic about learning web development</h3>
 
-- 🌱 I’m currently learning **React** and TypeScript
+- 🌱 I’m currently learning **React** and **TypeScript**
 
 - 💬 Ask me about **React and front-end development**
 
